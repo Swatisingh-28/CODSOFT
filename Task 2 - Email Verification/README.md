@@ -29,7 +29,7 @@ This task focused on designing a **user-friendly email verification screen** usi
 ### 🖼 Screenshot
 
 Screenshot(s) of the design are uploaded in this folder:
-- email-verification.jpeg
+- email-verification.png
 
 ---
 
