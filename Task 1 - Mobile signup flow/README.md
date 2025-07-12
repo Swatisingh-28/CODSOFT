@@ -29,7 +29,7 @@ This task involved designing a **mobile-friendly sign up experience** using **Fi
 ### 🖼 Screenshots
 
 All screen previews are uploaded in this folder:
-- sign-up-page.jpeg 
+- sign-up-page.jpeg (./01-readlee-intro.jpeg)
 - sign-in-page.jpeg 
 - welcome-page.jpeg 
 - genre-selection-page.jpeg  
