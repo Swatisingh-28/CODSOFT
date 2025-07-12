@@ -17,7 +17,7 @@ This repository includes all assigned tasks completed using **Figma**, following
 - [View Task 2 Folder](./Task%202%20-%20Email%20Verification)
 #### ✅ Task 3 — Restaurant Menu App
 - Created a multi-screen menu app UI with pill-style filters, dish cards, and scroll interactions  
-- [View Task 3 Folder](./Task%203%20-%20Restaurant%20Menu%20App)
+- [View Task 3 Folder](./Task%203%20-%20Restaurant%20Menu%20App%20UI)
 
 ---
 
