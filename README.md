@@ -10,7 +10,7 @@ This repository includes all assigned tasks completed using **Figma**, following
 #### ✅ Task 1 — Sign Up Screen
 - Created a mobile-friendly onboarding experience for a reading app named `Readlee`
 - Includes Sign Up, Sign In, Welcome, Genre Personalization & All Set pages  
-- [View Task 1 Folder](./Task%201%20-%20Sign%20Up%20Screen)
+- [View Task 1 Folder](./Task%201%20-%20Mobile%20signup%20flow))
 
 #### ✅ Task 2 — Email Verification Template
 - Designed a single-screen email verification layout with clean, readable formatting  
