@@ -24,7 +24,7 @@ This repository includes all assigned tasks completed using **Figma**, following
 ### 🔗 Figma Prototypes
 
 Each task folder contains:
-- 🖼 Design screenshots (.jpeg & .png)
+- 🖼 Design screenshots (.png)
 - 🔗 Direct Figma prototype/view link
 - 📄 Individual README with highlights and structure
 
