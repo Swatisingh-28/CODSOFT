@@ -1,4 +1,4 @@
-# ✅ Task 3 — Restaurant Menu App UI
+# ✅ Task 2 — Restaurant Menu App UI
 
 This task focused on designing a **scrollable restaurant menu app interface** using **Figma**. The design includes pill-style category filters, dish cards with images, and a responsive mobile-friendly layout.
 
