@@ -12,12 +12,9 @@ This repository includes all assigned tasks completed using **Figma**, following
 - Includes Sign Up, Sign In, Welcome, Genre Personalization & All Set pages  
 - [View Task 1 Folder](./Task%201%20-%20Mobile%20signup%20flow)
 
-#### ✅ Task 2 — Email Verification Template
-- Designed a single-screen email verification layout with clean, readable formatting  
-- [View Task 2 Folder](./Task%202%20-%20Email%20Verification)
-#### ✅ Task 3 — Restaurant Menu App
+#### ✅ Task 2 — Restaurant Menu App
 - Created a multi-screen menu app UI with pill-style filters, dish cards, and scroll interactions  
-- [View Task 3 Folder](./Task%203%20-%20Restaurant%20Menu%20App%20UI)
+- [View Task 2 Folder](./Task%203%20-%20Restaurant%20Menu%20App%20UI)
 
 ---
 
