@@ -10,7 +10,7 @@ This repository includes all assigned tasks completed using **Figma**, following
 #### ✅ Task 1 — Sign Up Screen
 - Created a mobile-friendly onboarding experience for a reading app named `Readlee`
 - Includes Sign Up, Sign In, Welcome, Genre Personalization & All Set pages  
-- [View Task 1 Folder](./Task%201%20-%20Mobile%20signup%20flow)
+- [View Task 1 Folder](./tree/main/Mobile%20signup%20flow)
 
 #### ✅ Task 2 — Restaurant Menu App
 - Created a multi-screen menu app UI with pill-style filters, dish cards, and scroll interactions  
