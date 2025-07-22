@@ -28,12 +28,7 @@ This task focused on designing a **scrollable restaurant menu app interface** us
 
 ### 🖼 Screenshots
 
-All screen previews are uploaded in this folder:
-- all-category.png
-- starters.png
-- mains.png
-- desserts.png  
-- drinks.png 
+All screen previews are uploaded ahead.
 
 ---
 
