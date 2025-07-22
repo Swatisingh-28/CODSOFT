@@ -16,6 +16,10 @@ This repository includes all assigned tasks completed using **Figma**, following
 - Created a multi-screen menu app UI with pill-style filters, dish cards, and scroll interactions  
 - [View Task 2 Folder](./Restaurant%20Menu%20App%20UI)
 
+#### ✅ Task 3 — E-commerce Website UI
+- Designed a desktop website for a fictional premium jewelry brand using Figma, featuring elegant layouts,striking visuals, and product-focused sections.
+- [View Task 3 Folder](./Mobile%20signup%20flow)
+
 ---
 
 ### 🔗 Figma Prototypes
