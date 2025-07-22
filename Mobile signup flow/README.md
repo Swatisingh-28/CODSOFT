@@ -29,11 +29,11 @@ This task involved designing a **mobile-friendly sign up experience** using **Fi
 ### 🖼 Screenshots
 
 All screen previews are uploaded in this folder:
-- sign-up-page.jpeg 
-- sign-in-page.jpeg 
-- welcome-page.jpeg 
-- genre-selection-page.jpeg  
-- all-set-page.jpeg
+- sign-up-page.png 
+- sign-in-page.png 
+- welcome-page.png 
+- genre-selection-page.png 
+- all-set-page.png
 
 ---
 
