@@ -1,4 +1,4 @@
-# ✅ Task 4 — E-commerce Web Design UI
+# ✅ Task 3 — E-commerce Web Design UI
 
 This task involved designing a **premium e-commerce website** for a fictional luxury jewelry brand using **Figma**. The focus was on creating a **visually rich yet minimal design** that reflects elegance and bold femininity.
 
