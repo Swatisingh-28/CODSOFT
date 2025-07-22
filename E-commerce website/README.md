@@ -31,11 +31,11 @@ This task involved designing a **premium e-commerce website** for a fictional lu
 ### 🖼 Screenshots
 
 All screens are included in the folder:  
-- homepage.jpeg  
-- shop-page.jpeg  
-- product-grid.jpeg  
-- about-section.jpeg  
-- newsletter-footer.jpeg  
+- homepage.png  
+- shop-page.png 
+- product-grid.png  
+- about-section.png 
+- newsletter-footer.png  
 
 ---
 
