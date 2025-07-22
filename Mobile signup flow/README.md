@@ -28,12 +28,7 @@ This task involved designing a **mobile-friendly sign up experience** using **Fi
 
 ### 🖼 Screenshots
 
-All screen previews are uploaded in this folder:
-- sign-up-page.png 
-- sign-in-page.png 
-- welcome-page.png 
-- genre-selection-page.png 
-- all-set-page.png
+All screen previews are also uploaded ahead.
 
 ---
 
