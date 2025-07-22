@@ -18,7 +18,7 @@ This repository includes all assigned tasks completed using **Figma**, following
 
 #### ✅ Task 3 — E-commerce Website UI
 - Designed a desktop website for a fictional premium jewelry brand using Figma, featuring elegant layouts,striking visuals, and product-focused sections.
-- [View Task 3 Folder](./Mobile%20signup%20flow)
+- [View Task 3 Folder](./E-commerce%20website)
 
 ---
 
