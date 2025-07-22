@@ -30,12 +30,7 @@ This task involved designing a **premium e-commerce website** for a fictional lu
 
 ### 🖼 Screenshots
 
-All screens are included in the folder:  
-- homepage.png  
-- shop-page.png 
-- product-grid.png  
-- about-section.png 
-- newsletter-footer.png  
+All screens are included ahead. 
 
 ---
 
